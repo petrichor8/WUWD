@@ -24,7 +24,7 @@ body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
     -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
-    background:#000 url('../img/wood.png') top left;
+    background:#000 url('../img/wood.jpg') center top;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
